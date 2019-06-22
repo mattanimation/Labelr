@@ -1,0 +1,16 @@
+{
+  "name": "labelr",
+  "version": "0.0.1",
+  "description": "A data annotation tool",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^5.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Matt Murray",
+  "license": "MIT"
+}
